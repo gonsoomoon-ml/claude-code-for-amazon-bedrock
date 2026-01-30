@@ -1,4 +1,10 @@
-# Stock Agent
+# Demo : Claude Code for Amazon Bedrock
+
+ 이 깃 리포는 Aamzon Bedrock 을 연결해서 Claude Code 를 사용해서 만든 코드 입니다. 
+실제 생성 내용은 여기 [영상:
+Demo : Claude Code for Amazon Bedrock](https://youtu.be/Ra9YLsJO-Jg) 을 보시면 됩니다.
+
+## Stock Agent
 
 Strands Agents SDK와 Amazon Bedrock Claude를 활용한 주식 정보 AI Agent입니다.
 
